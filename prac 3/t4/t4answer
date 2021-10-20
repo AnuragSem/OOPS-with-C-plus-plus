@@ -1,0 +1,2 @@
+we can resolve the problem that we are facing in t3 by using a string inplace of a character variable because with string we can store multiple characters but a char type variable can only store 1 character 
+we can store the name in the string by storing our string via the getline function declared in <string>

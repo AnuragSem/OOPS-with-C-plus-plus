@@ -1,0 +1,1 @@
+if we forgot to include<iostream> the preprocessor will not include the declarations of cin and cout functions as they are declared in <iostream> and the program would flag us errors

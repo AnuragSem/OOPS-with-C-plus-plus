@@ -1,0 +1,1 @@
+if we use <iostream.h> instead of <iostream> the preprocessor does not include the declarations of cin and cout functions as they are declared in <iostream>
